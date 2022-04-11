@@ -1,0 +1,3 @@
+推流代码使用rtmp-publish.rar
+
+拉流对面使用zero_player
